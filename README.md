@@ -4,7 +4,7 @@
   <p>
     <a href="https://samiel-azmaien.github.io/"><img src="https://img.shields.io/badge/Portfolio-B3A369?style=for-the-badge&logo=safari&logoColor=07111F" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/samiel-azmaien/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4997415"><img src="https://img.shields.io/badge/Research-10192B?style=for-the-badge&logo=readthedocs&logoColor=51D6E8" alt="Research" /></a>
+    <a href="https://orcid.org/0009-0008-3724-7310"><img src="https://img.shields.io/badge/Research-10192B?style=for-the-badge&logo=orcid&logoColor=51D6E8" alt="Research on ORCID" /></a>
   </p>
 </div>
 
@@ -23,19 +23,19 @@ I'm a computer science student at Georgia Tech. I like building where infrastruc
 - Creating model-evaluation tasks and studying how software agents reason, fail, and recover.
 - Turning research prototypes into clearer, reproducible engineering artifacts.
 
-## Selected projects
+## Featured projects
 
-### [Delegis](https://github.com/samiel-azmaien/delegis-protocol)
-An early concept for verifiable identity, delegated authority, external policy checks, and signed receipts between autonomous agents.
+### [Totem](https://totemlayer.com/)
+Collaborating on agent-authorization infrastructure that verifies who an AI agent represents and whether it has current permission for a specific request.
 
 ### [FND classification research](https://github.com/samiel-azmaien/Neural-Network-Analysis-of-MRI-Scans-for-FND-Diagnosis)
 Research artifacts exploring logistic regression and dense neural networks over MRI-derived quality metrics—with the public sample's reproducibility limits documented explicitly.
 
-### [Gwinnett election analysis](https://github.com/samiel-azmaien/datascience25)
-An exploratory geospatial analysis of recent election results and precinct-level swing-score heuristics in Gwinnett County.
+### [GPU–HBM predictive caching](https://github.com/samiel-azmaien/gpu-hbm-predictive-caching)
+Published ISEF research on Markov-chain memory modeling, neural-network-guided prefetching, quantization, and pruning for GPU high-bandwidth-memory systems.
 
-### [Bicentennial Story Vault](https://samiel-azmaien.github.io/Gwinnett200Website/)
-A static civic-history prototype for presenting stories from Gwinnett County's bicentennial oral-history collection.
+### [Breast-cancer cell vision analysis](https://github.com/StudioMitesh/GSMSTTSADataScience24)
+A team computer-vision project exploring predictive analysis of breast-cancer cells to support improved treatment decisions.
 
 ## Toolbox
 
