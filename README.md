@@ -1,44 +1,51 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Samiel Azmaien — AI systems, search infrastructure, and quant research" />
-
-  <h3>Georgia Tech CS · building systems that make intelligence useful</h3>
-
+  <h1>Samiel Azmaien</h1>
+  <p><strong>Georgia Tech CS · AI systems · search infrastructure · quantitative research</strong></p>
   <p>
-    <a href="https://samiel-azmaien.github.io/">Portfolio</a>
-    ·
-    <a href="https://www.linkedin.com/in/samiel-azmaien/">LinkedIn</a>
-    ·
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4997415">Research</a>
+    <a href="https://samiel-azmaien.github.io/"><img src="https://img.shields.io/badge/Portfolio-B3A369?style=for-the-badge&logo=safari&logoColor=07111F" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/samiel-azmaien/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4997415"><img src="https://img.shields.io/badge/Research-10192B?style=for-the-badge&logo=readthedocs&logoColor=51D6E8" alt="Research" /></a>
   </p>
 </div>
 
-## In the arena
+<img src="./assets/systems-cosmos.png" width="100%" alt="An abstract constellation of search graphs, neural networks, and probability curves" />
 
-- **Search infrastructure @ AWS** — designed a Unified Search MCP service for lexical and semantic retrieval across internal AI agents.
-- **Co-founder @ Andromeda** — building prediction-market analytics, paper trading, and probability-driven strategy research.
-- **AI model evaluation** — creating adversarial coding tasks, golden solutions, and tests that expose weak model reasoning.
-- **Applied ML research** — published work spanning MRI-based FND diagnosis and predictive caching for GPU memory systems.
+<p align="center"><em>Turning noisy systems into useful signals.</em></p>
 
-## Selected work
+## Hey, I'm Samiel.
 
-| Project | What it does | Signal |
-|---|---|---|
-| [Andromeda](https://andromeda-mhwofeqi1-kp30s-projects.vercel.app/) | Prediction-market analytics and paper trading with real-time P&L and Python backtesting. | Next.js · TypeScript · Supabase |
-| [FND Neural Network Analysis](https://github.com/samiel-azmaien/Neural-Network-Analysis-of-MRI-Scans-for-FND-Diagnosis) | Combines MRI and clinical-history features to classify neurological disorders. | 92% accuracy · published research |
-| [Swing State Probabilities](https://github.com/samiel-azmaien/datascience25) | Estimates swing-state probabilities at the precinct level in Gwinnett County. | TSA Data Science · 1st place |
-| [GPU Markov Caching](https://isef.net/project/soft022t-optimizing-gpu-architecture-markov-based-caching) | Predicts V100 memory-block transitions to improve cache performance. | 85% L1 hit rate · ISEF |
+I'm a computer science student at Georgia Tech. I like building where infrastructure, machine learning, and markets collide—especially when the problem starts messy and the result needs to be dependable.
 
-## Working set
+### Currently
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0B1020?style=flat-square&logo=python&logoColor=4CC9F0" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-0B1020?style=flat-square&logo=typescript&logoColor=4CC9F0" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-0B1020?style=flat-square&logo=openjdk&logoColor=4CC9F0" alt="Java" />
-  <img src="https://img.shields.io/badge/AWS-0B1020?style=flat-square&logo=amazonwebservices&logoColor=FFB703" alt="AWS" />
-  <img src="https://img.shields.io/badge/PyTorch-0B1020?style=flat-square&logo=pytorch&logoColor=FF6B6B" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=flat-square&logo=postgresql&logoColor=4CC9F0" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-0B1020?style=flat-square&logo=docker&logoColor=4CC9F0" alt="Docker" />
+- Building agent-facing search and retrieval infrastructure.
+- Exploring prediction-market analytics and paper-trading systems with **Andromeda**.
+- Creating model-evaluation tasks and studying how software agents reason, fail, and recover.
+- Turning research prototypes into clearer, reproducible engineering artifacts.
+
+## Selected projects
+
+### [Delegis](https://github.com/samiel-azmaien/delegis-protocol)
+An early concept for verifiable identity, delegated authority, external policy checks, and signed receipts between autonomous agents.
+
+### [FND classification research](https://github.com/samiel-azmaien/Neural-Network-Analysis-of-MRI-Scans-for-FND-Diagnosis)
+Research artifacts exploring logistic regression and dense neural networks over MRI-derived quality metrics—with the public sample's reproducibility limits documented explicitly.
+
+### [Gwinnett election analysis](https://github.com/samiel-azmaien/datascience25)
+An exploratory geospatial analysis of recent election results and precinct-level swing-score heuristics in Gwinnett County.
+
+### [Bicentennial Story Vault](https://samiel-azmaien.github.io/Gwinnett200Website/)
+A static civic-history prototype for presenting stories from Gwinnett County's bicentennial oral-history collection.
+
+## Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,java,cpp,aws,docker,postgres,pytorch,nextjs,react,git&theme=dark" alt="Python, TypeScript, Java, C++, AWS, Docker, PostgreSQL, PyTorch, Next.js, React, and Git" />
 </p>
 
-> I like hard problems at the intersection of systems, intelligence, and markets.
+---
+
+<p align="center">
+  <strong>Systems should be legible. Models should be testable. Claims should have receipts.</strong>
+</p>
 
