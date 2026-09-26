@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Samiel Azmaien</h1>
-  <p><strong>Georgia Tech CS · AI systems · search infrastructure · quantitative research</strong></p>
+  <p><strong>Georgia Tech CS · AI infrastructure · model evaluation · machine learning research</strong></p>
   <p>
-    <a href="https://samiel-azmaien.github.io/"><img src="https://img.shields.io/badge/Portfolio-B3A369?style=for-the-badge&logo=safari&logoColor=07111F" alt="Portfolio" /></a>
+    <a href="https://totemlayer.com/samiel-azmaien/"><img src="https://img.shields.io/badge/Portfolio-B3A369?style=for-the-badge&logo=safari&logoColor=07111F" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/samiel-azmaien/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://orcid.org/0009-0008-3724-7310"><img src="https://img.shields.io/badge/Research-10192B?style=for-the-badge&logo=orcid&logoColor=51D6E8" alt="Research on ORCID" /></a>
   </p>
@@ -14,28 +14,31 @@
 
 ## Hey, I'm Samiel.
 
-I'm a computer science student at Georgia Tech. I like building where infrastructure, machine learning, and markets collide—especially when the problem starts messy and the result needs to be dependable.
+I'm a computer science student at Georgia Tech working on AI infrastructure and research. I build agent-facing systems, evaluate model behavior, and turn exploratory machine-learning work into clear, testable artifacts.
 
 ### Currently
 
-- Building agent-facing search and retrieval infrastructure.
-- Exploring prediction-market analytics and paper-trading systems with **Andromeda**.
+- Leading product and customer discovery for **Totem**, an agent identity and authorization network.
 - Creating model-evaluation tasks and studying how software agents reason, fail, and recover.
-- Turning research prototypes into clearer, reproducible engineering artifacts.
+- Developing agent-facing infrastructure and cross-company workflow concepts.
+- Publishing research with explicit assumptions, limitations, and reproducibility boundaries.
 
 ## Featured projects
 
 ### [Totem](https://totemlayer.com/)
-Collaborating on agent-authorization infrastructure that verifies who an AI agent represents and whether it has current permission for a specific request.
-
-### [FND classification research](https://github.com/samiel-azmaien/Neural-Network-Analysis-of-MRI-Scans-for-FND-Diagnosis)
-Research artifacts exploring logistic regression and dense neural networks over MRI-derived quality metrics—with the public sample's reproducibility limits documented explicitly.
+An agent identity and authorization network for cross-company requests. I lead product and customer discovery, define initial workflows, and establish pilot success criteria.
 
 ### [GPU–HBM predictive caching](https://github.com/samiel-azmaien/gpu-hbm-predictive-caching)
-Published ISEF research on Markov-chain memory modeling, neural-network-guided prefetching, quantization, and pruning for GPU high-bandwidth-memory systems.
+A predictive memory-controller concept using Markov-chain transitions, neural-network verification, quantization, and pruning. The work became a sole-authored journal article and a granted co-invented patent.
 
-### [Breast-cancer cell vision analysis](https://github.com/StudioMitesh/GSMSTTSADataScience24)
-A team computer-vision project exploring predictive analysis of breast-cancer cells to support improved treatment decisions.
+### [FND classification research](https://github.com/samiel-azmaien/Neural-Network-Analysis-of-MRI-Scans-for-FND-Diagnosis)
+An exploratory MRI-feature classification study using logistic-regression and two-hidden-layer dense-network baselines, published in 2024 with its public-sample limitations stated explicitly.
+
+### [Swing-State Probabilities](https://github.com/samiel-azmaien/datascience25)
+An exploratory analysis of 2020–2024 election results mapping transparent precinct-level swing scores across Gwinnett County, supported by public notebooks and a 34-page development logbook.
+
+### [Andromeda](https://github.com/samiel-azmaien/andromeda-hacklanta-2026)
+A concluded four-person Hacklanta prototype for prediction-market research signals, paper trading, and strategy experiments. The public archive documents the project without exposing the team's private source code.
 
 ## Toolbox
 
